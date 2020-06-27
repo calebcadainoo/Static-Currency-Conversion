@@ -1,0 +1,9 @@
+E:\VB PROJECTS\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+E:\VB PROJECTS\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+E:\VB PROJECTS\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.xml
+E:\VB PROJECTS\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Form1.resources
+E:\VB PROJECTS\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Resources.resources
+E:\VB PROJECTS\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.vbproj.GenerateResource.Cache
+E:\VB PROJECTS\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+E:\VB PROJECTS\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.xml
+E:\VB PROJECTS\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
