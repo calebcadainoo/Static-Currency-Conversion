@@ -37,6 +37,7 @@ Public Class Form1
             If Not IsNumeric(TextBox1.Text) Then
                 amount = 0.0
                 TextBox1.Text = "0.00"
+                TextBox1.SelectAll()
             End If
             amount = TextBox1.Text
         End If
